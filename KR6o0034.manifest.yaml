@@ -1,0 +1,72 @@
+canonical_identifier: bkk:krp/KR6o0034/v1
+canonical_location: https://kanripo.org/bkk/KR6o0034/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 判比量論
+  identifiers:
+    alt_id:
+    - X53n0860
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X53/X53n0860.xml
+    old_id: X53n0860
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0034_000.yaml, hash: 'sha256:81e25e034ffee30b536c03ba3ee3174930f3544995b71cd2d0199d8cdc4aa9f0'}
+  - {seq: 1, filename: KR6o0034_001.yaml, hash: 'sha256:4baa394a87511cbb928aa53ca6a7a484d8263e9e6031a128e5dcc1709edcd243'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6o0034_001.markers.yaml, hash: 'sha256:09f3307a5da812eab4417b1e3e1489c8dc204e90829ce3c9071c52177119a509'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6o0034_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 判比量論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0034_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 2234
+  label: 判比量論
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0034_X_001-mulu-1
+    span:
+    - body
+    - 1979
+    - 1979
+  label: 新出斷簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0034_X_001-mulu-2
+    span:
+    - body
+    - 2169
+    - 2169
+  label: 判比量論䟦文
+  type: mulu
+  level: 1
+hash: sha256:bc5278e0c41dd4bc6dc0d2469aefa4bf4d9fe22910bb3b1cd2d2d3b49b5e8d11
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
