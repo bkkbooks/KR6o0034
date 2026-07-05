@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0034_000.yaml, hash: 'sha256:81e25e034ffee30b536c03ba3ee3174930f3544995b71cd2d0199d8cdc4aa9f0'}
-  - {seq: 1, filename: KR6o0034_001.yaml, hash: 'sha256:4baa394a87511cbb928aa53ca6a7a484d8263e9e6031a128e5dcc1709edcd243'}
+  - {seq: 1, filename: KR6o0034_001.yaml, hash: 'sha256:81264f38d57c09268f34296b4d02c4b247dd76efb6d365cf634c11732f6bb182'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6o0034_001.markers.yaml, hash: 'sha256:09f3307a5da812eab4417b1e3e1489c8dc204e90829ce3c9071c52177119a509'}
+  - {seq: 0, role: markers, filename: assets/KR6o0034_000.markers.yaml, hash: 'sha256:c96dff2476cc7e34151b788c32171e3eba83ba576fd441350e70cd04d35fbb77'}
+  - {seq: 1, role: markers, filename: assets/KR6o0034_001.markers.yaml, hash: 'sha256:be012385f63c29ae6f4e60999ef3248f02b4ad4b1609abff4813d8aaf7bd6808'}
 table_of_contents:
 - ref:
     seq: 0
@@ -66,7 +67,4 @@ table_of_contents:
   label: 判比量論䟦文
   type: mulu
   level: 1
-hash: sha256:bc5278e0c41dd4bc6dc0d2469aefa4bf4d9fe22910bb3b1cd2d2d3b49b5e8d11
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9ea76da05424546b525a977a51366cb2b34d3b895ef6f30265be11da59c9fbfb
