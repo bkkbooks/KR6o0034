@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6o0034/v1
 canonical_location: https://kanripo.org/bkk/KR6o0034/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 判比量論
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0034_000.yaml, hash: 'sha256:81e25e034ffee30b536c03ba3ee3174930f3544995b71cd2d0199d8cdc4aa9f0'}
-  - {seq: 1, filename: KR6o0034_001.yaml, hash: 'sha256:81264f38d57c09268f34296b4d02c4b247dd76efb6d365cf634c11732f6bb182'}
+  - {seq: 1, filename: KR6o0034_001.yaml, hash: 'sha256:acad5b06640af4ca679545f0e33f5856ced31313d5a81f21c4c1e33c2f70d328'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6o0034_000.markers.yaml, hash: 'sha256:c96dff2476cc7e34151b788c32171e3eba83ba576fd441350e70cd04d35fbb77'}
-  - {seq: 1, role: markers, filename: assets/KR6o0034_001.markers.yaml, hash: 'sha256:be012385f63c29ae6f4e60999ef3248f02b4ad4b1609abff4813d8aaf7bd6808'}
+  - {seq: 1, role: markers, filename: assets/KR6o0034_001.markers.yaml, hash: 'sha256:9c010002ea52e579758ad32ba5a7ebf0fd551a8731ce6bbd4fcbf9ab72d48e13'}
 table_of_contents:
 - ref:
     seq: 0
@@ -67,4 +67,7 @@ table_of_contents:
   label: 判比量論䟦文
   type: mulu
   level: 1
-hash: sha256:9ea76da05424546b525a977a51366cb2b34d3b895ef6f30265be11da59c9fbfb
+hash: sha256:ba92d135ef064d7317515b3ded2f8615cebef4a3e05f2a3536250b8024ad8fc5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
